@@ -9,7 +9,18 @@ import SwiftUI
 
 struct View002: View {
     var body: some View {
-        Text("002")
+        Image(.icon)
+            .resizable()
+            .aspectRatio(contentMode: .fill)
+            .frame(width: 150, height: 200)
+            .clipped()
+        
+//        Image(.icon)
+//            .resizable()
+//            .scaledToFill()
+//            .frame(width: 150, height: 200)
+//            .clipped()
+//            .background(Color.red)
     }
 }
 
