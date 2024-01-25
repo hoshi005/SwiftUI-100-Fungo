@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_100_FungoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
