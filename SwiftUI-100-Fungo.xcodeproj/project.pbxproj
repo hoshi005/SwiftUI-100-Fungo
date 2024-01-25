@@ -16,6 +16,7 @@
 		EF3883C62B6264EF00CBFF94 /* ViewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883C52B6264EF00CBFF94 /* ViewData.swift */; };
 		EF3883C82B626D0700CBFF94 /* View003.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883C72B626D0700CBFF94 /* View003.swift */; };
 		EF3883CA2B626DA300CBFF94 /* View004.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883C92B626DA300CBFF94 /* View004.swift */; };
+		EF3883CC2B62705400CBFF94 /* View005.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883CB2B62705400CBFF94 /* View005.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		EF3883C52B6264EF00CBFF94 /* ViewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewData.swift; sourceTree = "<group>"; };
 		EF3883C72B626D0700CBFF94 /* View003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View003.swift; sourceTree = "<group>"; };
 		EF3883C92B626DA300CBFF94 /* View004.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View004.swift; sourceTree = "<group>"; };
+		EF3883CB2B62705400CBFF94 /* View005.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View005.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				EF3883C12B62648200CBFF94 /* View002.swift */,
 				EF3883C72B626D0700CBFF94 /* View003.swift */,
 				EF3883C92B626DA300CBFF94 /* View004.swift */,
+				EF3883CB2B62705400CBFF94 /* View005.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF3883CC2B62705400CBFF94 /* View005.swift in Sources */,
 				EF3883C22B62648200CBFF94 /* View002.swift in Sources */,
 				EF3883C42B6264AC00CBFF94 /* HomeView.swift in Sources */,
 				EF3883C02B62646200CBFF94 /* View001.swift in Sources */,
