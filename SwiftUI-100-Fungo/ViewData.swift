@@ -21,4 +21,5 @@ let views = [
     ViewData(name: "6. NavigationViewを使いラージタイトルを表示する", view: { AnyView(View006()) }),
     ViewData(name: "7. Pickerを表示する", view: { AnyView(View007()) }),
     ViewData(name: "8. TabViewを使って画面を切り替える", view: { AnyView(View008()) }),
+    ViewData(name: "9. Buttonが押されたら文字を変える", view: { AnyView(View009()) }),
 ]
