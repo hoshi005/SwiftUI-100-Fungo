@@ -18,6 +18,7 @@
 		EF3883CA2B626DA300CBFF94 /* View004.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883C92B626DA300CBFF94 /* View004.swift */; };
 		EF3883CC2B62705400CBFF94 /* View005.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883CB2B62705400CBFF94 /* View005.swift */; };
 		EF3883CE2B64A95600CBFF94 /* View006.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883CD2B64A95600CBFF94 /* View006.swift */; };
+		EF3883D22B64AB7400CBFF94 /* View007.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883D12B64AB7400CBFF94 /* View007.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		EF3883CB2B62705400CBFF94 /* View005.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View005.swift; sourceTree = "<group>"; };
 		EF3883CD2B64A95600CBFF94 /* View006.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View006.swift; sourceTree = "<group>"; };
 		EF3883CF2B64A98200CBFF94 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EF3883D12B64AB7400CBFF94 /* View007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View007.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				EF3883C92B626DA300CBFF94 /* View004.swift */,
 				EF3883CB2B62705400CBFF94 /* View005.swift */,
 				EF3883CD2B64A95600CBFF94 /* View006.swift */,
+				EF3883D12B64AB7400CBFF94 /* View007.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				EF3883C42B6264AC00CBFF94 /* HomeView.swift in Sources */,
 				EF3883C02B62646200CBFF94 /* View001.swift in Sources */,
 				EF3883B12B62638E00CBFF94 /* SwiftUI_100_FungoApp.swift in Sources */,
+				EF3883D22B64AB7400CBFF94 /* View007.swift in Sources */,
 				EF3883C82B626D0700CBFF94 /* View003.swift in Sources */,
 				EF3883CA2B626DA300CBFF94 /* View004.swift in Sources */,
 				EF3883C62B6264EF00CBFF94 /* ViewData.swift in Sources */,
