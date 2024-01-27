@@ -20,4 +20,5 @@ let views = [
     ViewData(name: "5. 画像を等間隔で横に並べる", view: { AnyView(View005()) }),
     ViewData(name: "6. NavigationViewを使いラージタイトルを表示する", view: { AnyView(View006()) }),
     ViewData(name: "7. Pickerを表示する", view: { AnyView(View007()) }),
+    ViewData(name: "8. TabViewを使って画面を切り替える", view: { AnyView(View008()) }),
 ]

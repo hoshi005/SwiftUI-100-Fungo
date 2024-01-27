@@ -19,6 +19,7 @@
 		EF3883CC2B62705400CBFF94 /* View005.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883CB2B62705400CBFF94 /* View005.swift */; };
 		EF3883CE2B64A95600CBFF94 /* View006.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883CD2B64A95600CBFF94 /* View006.swift */; };
 		EF3883D22B64AB7400CBFF94 /* View007.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883D12B64AB7400CBFF94 /* View007.swift */; };
+		EF3883D42B64DB5000CBFF94 /* View008.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883D32B64DB5000CBFF94 /* View008.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		EF3883CD2B64A95600CBFF94 /* View006.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View006.swift; sourceTree = "<group>"; };
 		EF3883CF2B64A98200CBFF94 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EF3883D12B64AB7400CBFF94 /* View007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View007.swift; sourceTree = "<group>"; };
+		EF3883D32B64DB5000CBFF94 /* View008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View008.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				EF3883CB2B62705400CBFF94 /* View005.swift */,
 				EF3883CD2B64A95600CBFF94 /* View006.swift */,
 				EF3883D12B64AB7400CBFF94 /* View007.swift */,
+				EF3883D32B64DB5000CBFF94 /* View008.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF3883D42B64DB5000CBFF94 /* View008.swift in Sources */,
 				EF3883CC2B62705400CBFF94 /* View005.swift in Sources */,
 				EF3883CE2B64A95600CBFF94 /* View006.swift in Sources */,
 				EF3883C22B62648200CBFF94 /* View002.swift in Sources */,
