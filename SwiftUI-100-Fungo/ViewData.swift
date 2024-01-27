@@ -27,7 +27,7 @@ let views = [
     ViewData(name: "12. NavigationViewの戻るボタンを非表示にする", view: { AnyView(View012()) }),
     ViewData(name: "13. Listのスタイルを変更する", view: { AnyView(View013()) }),
     ViewData(name: "14. Alertを表示する", view: { AnyView(View014()) }),
-    ViewData(name: "15. Alertを出し分ける", view: { AnyView(View015()) }),
+    ViewData(name: "15. Alertを出し分ける !!!!!!", view: { AnyView(View015()) }),
     ViewData(name: "16. Button内の画像やテキストの色を変えない", view: { AnyView(View016()) }),
     ViewData(name: "17. SwiftUIでアラートとシートを出し分ける", view: { AnyView(View017()) }),
     ViewData(name: "18. Buttonからプッシュ遷移をする（NavigationLinkを無効にする）", view: { AnyView(View018()) }),
