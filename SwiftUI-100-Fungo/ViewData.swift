@@ -18,4 +18,5 @@ let views = [
     ViewData(name: "3. 画像を丸く切り取る", view: { AnyView(View003()) }),
     ViewData(name: "4. 画像を丸く切り取り、枠を付ける", view: { AnyView(View004()) }),
     ViewData(name: "5. 画像を等間隔で横に並べる", view: { AnyView(View005()) }),
+    ViewData(name: "6. NavigationViewを使いラージタイトルを表示する", view: { AnyView(View006()) }),
 ]
