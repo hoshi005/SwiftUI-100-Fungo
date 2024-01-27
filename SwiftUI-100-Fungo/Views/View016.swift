@@ -7,9 +7,25 @@
 
 import SwiftUI
 
+// .buttonStyle を .plain にすることで、ボタン特有のtintを無効にできる
+
 struct View016: View {
+    @State private var value = "hoge"
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text(value)
+        Button {
+            value = "fuga"
+        } label: {
+            HStack {
+                Image(.icon)
+                    .resizable()
+                    .frame(width: 100, height: 100)
+                Text("Tap Me !!!")
+            }
+            .padding()
+            .border(Color.black)
+        }
+        .buttonStyle(.plain)
     }
 }
 
