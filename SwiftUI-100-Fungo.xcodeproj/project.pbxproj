@@ -32,6 +32,36 @@
 		EF3883E82B64DF6500CBFF94 /* View018.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883E72B64DF6500CBFF94 /* View018.swift */; };
 		EF3883EA2B64DF6A00CBFF94 /* View019.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883E92B64DF6A00CBFF94 /* View019.swift */; };
 		EF3883EC2B64DF6E00CBFF94 /* View020.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883EB2B64DF6E00CBFF94 /* View020.swift */; };
+		EF3883EE2B691E5B00CBFF94 /* View021.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883ED2B691E5B00CBFF94 /* View021.swift */; };
+		EF3883F02B691E6100CBFF94 /* View022.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883EF2B691E6100CBFF94 /* View022.swift */; };
+		EF3883F22B691E6800CBFF94 /* View023.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883F12B691E6800CBFF94 /* View023.swift */; };
+		EF3883F42B691E8000CBFF94 /* View024.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883F32B691E8000CBFF94 /* View024.swift */; };
+		EF3883F62B691E8800CBFF94 /* View025.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883F52B691E8800CBFF94 /* View025.swift */; };
+		EF3883F82B691E9200CBFF94 /* View026.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883F72B691E9200CBFF94 /* View026.swift */; };
+		EF3883FA2B691E9900CBFF94 /* View027.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883F92B691E9900CBFF94 /* View027.swift */; };
+		EF3883FC2B691EA100CBFF94 /* View028.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883FB2B691EA100CBFF94 /* View028.swift */; };
+		EF3883FE2B691EA900CBFF94 /* View029.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883FD2B691EA900CBFF94 /* View029.swift */; };
+		EF3884002B691EAF00CBFF94 /* View030.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3883FF2B691EAF00CBFF94 /* View030.swift */; };
+		EF3884022B691ECE00CBFF94 /* View031.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884012B691ECE00CBFF94 /* View031.swift */; };
+		EF3884042B691ED400CBFF94 /* View032.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884032B691ED400CBFF94 /* View032.swift */; };
+		EF3884062B691EDA00CBFF94 /* View033.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884052B691EDA00CBFF94 /* View033.swift */; };
+		EF3884082B691EE000CBFF94 /* View034.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884072B691EE000CBFF94 /* View034.swift */; };
+		EF38840A2B691EE800CBFF94 /* View035.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884092B691EE800CBFF94 /* View035.swift */; };
+		EF38840C2B691EF900CBFF94 /* View036.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38840B2B691EF900CBFF94 /* View036.swift */; };
+		EF38840E2B691F0000CBFF94 /* View037.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38840D2B691F0000CBFF94 /* View037.swift */; };
+		EF3884102B691F0700CBFF94 /* View038.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38840F2B691F0700CBFF94 /* View038.swift */; };
+		EF3884122B691F0D00CBFF94 /* View039.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884112B691F0D00CBFF94 /* View039.swift */; };
+		EF3884142B691F1400CBFF94 /* View040.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884132B691F1400CBFF94 /* View040.swift */; };
+		EF3884162B691F2500CBFF94 /* View041.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884152B691F2500CBFF94 /* View041.swift */; };
+		EF3884182B691F2C00CBFF94 /* View042.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884172B691F2C00CBFF94 /* View042.swift */; };
+		EF38841A2B691F3400CBFF94 /* View043.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884192B691F3400CBFF94 /* View043.swift */; };
+		EF38841C2B691F3D00CBFF94 /* View044.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38841B2B691F3D00CBFF94 /* View044.swift */; };
+		EF38841E2B691F4200CBFF94 /* View045.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38841D2B691F4200CBFF94 /* View045.swift */; };
+		EF3884202B691F4A00CBFF94 /* View046.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF38841F2B691F4A00CBFF94 /* View046.swift */; };
+		EF3884222B691F5100CBFF94 /* View047.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884212B691F5100CBFF94 /* View047.swift */; };
+		EF3884242B691F5700CBFF94 /* View048.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884232B691F5700CBFF94 /* View048.swift */; };
+		EF3884262B691F6200CBFF94 /* View049.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884252B691F6200CBFF94 /* View049.swift */; };
+		EF3884282B691F6F00CBFF94 /* View050.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3884272B691F6F00CBFF94 /* View050.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +92,36 @@
 		EF3883E72B64DF6500CBFF94 /* View018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View018.swift; sourceTree = "<group>"; };
 		EF3883E92B64DF6A00CBFF94 /* View019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View019.swift; sourceTree = "<group>"; };
 		EF3883EB2B64DF6E00CBFF94 /* View020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View020.swift; sourceTree = "<group>"; };
+		EF3883ED2B691E5B00CBFF94 /* View021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View021.swift; sourceTree = "<group>"; };
+		EF3883EF2B691E6100CBFF94 /* View022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View022.swift; sourceTree = "<group>"; };
+		EF3883F12B691E6800CBFF94 /* View023.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View023.swift; sourceTree = "<group>"; };
+		EF3883F32B691E8000CBFF94 /* View024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View024.swift; sourceTree = "<group>"; };
+		EF3883F52B691E8800CBFF94 /* View025.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View025.swift; sourceTree = "<group>"; };
+		EF3883F72B691E9200CBFF94 /* View026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View026.swift; sourceTree = "<group>"; };
+		EF3883F92B691E9900CBFF94 /* View027.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View027.swift; sourceTree = "<group>"; };
+		EF3883FB2B691EA100CBFF94 /* View028.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View028.swift; sourceTree = "<group>"; };
+		EF3883FD2B691EA900CBFF94 /* View029.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View029.swift; sourceTree = "<group>"; };
+		EF3883FF2B691EAF00CBFF94 /* View030.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View030.swift; sourceTree = "<group>"; };
+		EF3884012B691ECE00CBFF94 /* View031.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View031.swift; sourceTree = "<group>"; };
+		EF3884032B691ED400CBFF94 /* View032.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View032.swift; sourceTree = "<group>"; };
+		EF3884052B691EDA00CBFF94 /* View033.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View033.swift; sourceTree = "<group>"; };
+		EF3884072B691EE000CBFF94 /* View034.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View034.swift; sourceTree = "<group>"; };
+		EF3884092B691EE800CBFF94 /* View035.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View035.swift; sourceTree = "<group>"; };
+		EF38840B2B691EF900CBFF94 /* View036.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View036.swift; sourceTree = "<group>"; };
+		EF38840D2B691F0000CBFF94 /* View037.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View037.swift; sourceTree = "<group>"; };
+		EF38840F2B691F0700CBFF94 /* View038.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View038.swift; sourceTree = "<group>"; };
+		EF3884112B691F0D00CBFF94 /* View039.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View039.swift; sourceTree = "<group>"; };
+		EF3884132B691F1400CBFF94 /* View040.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View040.swift; sourceTree = "<group>"; };
+		EF3884152B691F2500CBFF94 /* View041.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View041.swift; sourceTree = "<group>"; };
+		EF3884172B691F2C00CBFF94 /* View042.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View042.swift; sourceTree = "<group>"; };
+		EF3884192B691F3400CBFF94 /* View043.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View043.swift; sourceTree = "<group>"; };
+		EF38841B2B691F3D00CBFF94 /* View044.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View044.swift; sourceTree = "<group>"; };
+		EF38841D2B691F4200CBFF94 /* View045.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View045.swift; sourceTree = "<group>"; };
+		EF38841F2B691F4A00CBFF94 /* View046.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View046.swift; sourceTree = "<group>"; };
+		EF3884212B691F5100CBFF94 /* View047.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View047.swift; sourceTree = "<group>"; };
+		EF3884232B691F5700CBFF94 /* View048.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View048.swift; sourceTree = "<group>"; };
+		EF3884252B691F6200CBFF94 /* View049.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View049.swift; sourceTree = "<group>"; };
+		EF3884272B691F6F00CBFF94 /* View050.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View050.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +196,36 @@
 				EF3883E72B64DF6500CBFF94 /* View018.swift */,
 				EF3883E92B64DF6A00CBFF94 /* View019.swift */,
 				EF3883EB2B64DF6E00CBFF94 /* View020.swift */,
+				EF3883ED2B691E5B00CBFF94 /* View021.swift */,
+				EF3883EF2B691E6100CBFF94 /* View022.swift */,
+				EF3883F12B691E6800CBFF94 /* View023.swift */,
+				EF3883F32B691E8000CBFF94 /* View024.swift */,
+				EF3883F52B691E8800CBFF94 /* View025.swift */,
+				EF3883F72B691E9200CBFF94 /* View026.swift */,
+				EF3883F92B691E9900CBFF94 /* View027.swift */,
+				EF3883FB2B691EA100CBFF94 /* View028.swift */,
+				EF3883FD2B691EA900CBFF94 /* View029.swift */,
+				EF3883FF2B691EAF00CBFF94 /* View030.swift */,
+				EF3884012B691ECE00CBFF94 /* View031.swift */,
+				EF3884032B691ED400CBFF94 /* View032.swift */,
+				EF3884052B691EDA00CBFF94 /* View033.swift */,
+				EF3884072B691EE000CBFF94 /* View034.swift */,
+				EF3884092B691EE800CBFF94 /* View035.swift */,
+				EF38840B2B691EF900CBFF94 /* View036.swift */,
+				EF38840D2B691F0000CBFF94 /* View037.swift */,
+				EF38840F2B691F0700CBFF94 /* View038.swift */,
+				EF3884112B691F0D00CBFF94 /* View039.swift */,
+				EF3884132B691F1400CBFF94 /* View040.swift */,
+				EF3884152B691F2500CBFF94 /* View041.swift */,
+				EF3884172B691F2C00CBFF94 /* View042.swift */,
+				EF3884192B691F3400CBFF94 /* View043.swift */,
+				EF38841B2B691F3D00CBFF94 /* View044.swift */,
+				EF38841D2B691F4200CBFF94 /* View045.swift */,
+				EF38841F2B691F4A00CBFF94 /* View046.swift */,
+				EF3884212B691F5100CBFF94 /* View047.swift */,
+				EF3884232B691F5700CBFF94 /* View048.swift */,
+				EF3884252B691F6200CBFF94 /* View049.swift */,
+				EF3884272B691F6F00CBFF94 /* View050.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,28 +300,58 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF3883FA2B691E9900CBFF94 /* View027.swift in Sources */,
 				EF3883DC2B64DF4400CBFF94 /* View012.swift in Sources */,
 				EF3883EA2B64DF6A00CBFF94 /* View019.swift in Sources */,
 				EF3883D42B64DB5000CBFF94 /* View008.swift in Sources */,
+				EF3884042B691ED400CBFF94 /* View032.swift in Sources */,
+				EF3884062B691EDA00CBFF94 /* View033.swift in Sources */,
 				EF3883D82B64DE4D00CBFF94 /* View010.swift in Sources */,
+				EF3884142B691F1400CBFF94 /* View040.swift in Sources */,
 				EF3883E22B64DF5500CBFF94 /* View015.swift in Sources */,
 				EF3883CC2B62705400CBFF94 /* View005.swift in Sources */,
+				EF3883EE2B691E5B00CBFF94 /* View021.swift in Sources */,
+				EF3884002B691EAF00CBFF94 /* View030.swift in Sources */,
+				EF3884122B691F0D00CBFF94 /* View039.swift in Sources */,
+				EF38840C2B691EF900CBFF94 /* View036.swift in Sources */,
+				EF3884182B691F2C00CBFF94 /* View042.swift in Sources */,
 				EF3883CE2B64A95600CBFF94 /* View006.swift in Sources */,
 				EF3883C22B62648200CBFF94 /* View002.swift in Sources */,
+				EF3884242B691F5700CBFF94 /* View048.swift in Sources */,
+				EF3883F82B691E9200CBFF94 /* View026.swift in Sources */,
 				EF3883E02B64DF4E00CBFF94 /* View014.swift in Sources */,
+				EF3884022B691ECE00CBFF94 /* View031.swift in Sources */,
+				EF3883F02B691E6100CBFF94 /* View022.swift in Sources */,
 				EF3883D62B64DDAE00CBFF94 /* View009.swift in Sources */,
+				EF3883F42B691E8000CBFF94 /* View024.swift in Sources */,
+				EF3884262B691F6200CBFF94 /* View049.swift in Sources */,
 				EF3883DE2B64DF4900CBFF94 /* View013.swift in Sources */,
+				EF3883FC2B691EA100CBFF94 /* View028.swift in Sources */,
 				EF3883E42B64DF5900CBFF94 /* View016.swift in Sources */,
+				EF3883F22B691E6800CBFF94 /* View023.swift in Sources */,
+				EF38841C2B691F3D00CBFF94 /* View044.swift in Sources */,
+				EF3884082B691EE000CBFF94 /* View034.swift in Sources */,
+				EF38841A2B691F3400CBFF94 /* View043.swift in Sources */,
 				EF3883C42B6264AC00CBFF94 /* HomeView.swift in Sources */,
 				EF3883C02B62646200CBFF94 /* View001.swift in Sources */,
 				EF3883B12B62638E00CBFF94 /* SwiftUI_100_FungoApp.swift in Sources */,
 				EF3883D22B64AB7400CBFF94 /* View007.swift in Sources */,
+				EF3884222B691F5100CBFF94 /* View047.swift in Sources */,
+				EF38840E2B691F0000CBFF94 /* View037.swift in Sources */,
+				EF3884282B691F6F00CBFF94 /* View050.swift in Sources */,
 				EF3883E62B64DF6000CBFF94 /* View017.swift in Sources */,
 				EF3883C82B626D0700CBFF94 /* View003.swift in Sources */,
 				EF3883DA2B64DF4000CBFF94 /* View011.swift in Sources */,
+				EF38840A2B691EE800CBFF94 /* View035.swift in Sources */,
+				EF3884162B691F2500CBFF94 /* View041.swift in Sources */,
+				EF3884202B691F4A00CBFF94 /* View046.swift in Sources */,
 				EF3883EC2B64DF6E00CBFF94 /* View020.swift in Sources */,
+				EF3884102B691F0700CBFF94 /* View038.swift in Sources */,
 				EF3883E82B64DF6500CBFF94 /* View018.swift in Sources */,
 				EF3883CA2B626DA300CBFF94 /* View004.swift in Sources */,
+				EF38841E2B691F4200CBFF94 /* View045.swift in Sources */,
+				EF3883F62B691E8800CBFF94 /* View025.swift in Sources */,
+				EF3883FE2B691EA900CBFF94 /* View029.swift in Sources */,
 				EF3883C62B6264EF00CBFF94 /* ViewData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

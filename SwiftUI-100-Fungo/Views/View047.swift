@@ -1,0 +1,18 @@
+//
+//  View047.swift
+//  SwiftUI-100-Fungo
+//
+//  Created by Susumu Hoshikawa on 2024/01/30.
+//
+
+import SwiftUI
+
+struct View047: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    View047()
+}
