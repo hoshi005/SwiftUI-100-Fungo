@@ -30,7 +30,7 @@ let views = [
     ViewData(name: "★★★ 15. Alertを出し分ける", view: { AnyView(View015()) }),
     ViewData(name: "★★★ 16. Button内の画像やテキストの色を変えない", view: { AnyView(View016()) }),
     ViewData(name: "17. SwiftUIでアラートとシートを出し分ける", view: { AnyView(View017()) }),
-    ViewData(name: "18. Buttonからプッシュ遷移をする（NavigationLinkを無効にする）", view: { AnyView(View018()) }),
-    ViewData(name: "19. 続きを読む。。。ボタンがあるViewを実装する", view: { AnyView(View019()) }),
+    ViewData(name: "★★★ 18. Buttonからプッシュ遷移をする（NavigationLinkを無効にする）", view: { AnyView(View018()) }),
+    ViewData(name: "★★★ 19. 続きを読む。。。ボタンがあるViewを実装する", view: { AnyView(View019()) }),
     ViewData(name: "20. Text中の文字の太さや色を変える", view: { AnyView(View020()) }),
 ]
