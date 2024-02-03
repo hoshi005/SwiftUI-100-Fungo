@@ -8,11 +8,29 @@
 import SwiftUI
 
 struct View023: View {
+    @State private var items = [
+        "ちさと",
+        "たきな",
+        "クルミ",
+        "ミズキ",
+    ]
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List {
+            ForEach(items, id: \.self) {
+                Text($0)
+            }
+            .onDelete {
+                items.remove(atOffsets: $0)
+            }
+        }
+        .toolbar {
+            EditButton()
+        }
     }
 }
 
 #Preview {
-    View023()
+    NavigationView {
+        View023()
+    }
 }
