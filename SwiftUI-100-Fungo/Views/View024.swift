@@ -8,8 +8,38 @@
 import SwiftUI
 
 struct View024: View {
+    
+    let items = [
+        "ちさと",
+        "たきな",
+        "クルミ",
+        "ミズキ",
+    ]
+    
+    @State private var showAlert = false
+    @State private var title: String = ""
+    @State private var presenting: String = ""
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List {
+            ForEach(items, id: \.self) { item in
+                HStack {
+                    Text(item)
+                    Spacer()
+                }
+                .contentShape(Rectangle())
+                .onTapGesture {
+                    showAlert.toggle()
+                    title = item
+                    presenting = item + item
+                }
+            }
+        }
+        .alert(title, isPresented: $showAlert, presenting: presenting) {_ in 
+            
+        } message: { presenting in
+            Text(presenting)
+        }
     }
 }
 
