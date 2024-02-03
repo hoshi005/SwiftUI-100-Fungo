@@ -33,7 +33,7 @@ let views = [
     ViewData(name: "★★★ 18. Buttonからプッシュ遷移をする（NavigationLinkを無効にする）", view: { AnyView(View018()) }),
     ViewData(name: "★★★ 19. 続きを読む。。。ボタンがあるViewを実装する", view: { AnyView(View019()) }),
     ViewData(name: "20. Text中の文字の太さや色を変える", view: { AnyView(View020()) }),
-    ViewData(name: "21. FunctionBuilderを使ってViewに影をつける", view: { AnyView(View021()) }),
+    ViewData(name: "★★★ 21. FunctionBuilderを使ってViewに影をつける", view: { AnyView(View021()) }),
     ViewData(name: "22. ViewModifierを使ってViewに影をつける", view: { AnyView(View022()) }),
     ViewData(name: "23. リストを編集する", view: { AnyView(View023()) }),
     ViewData(name: "24. リストのセルをタップするとアラートが表示させる", view: { AnyView(View024()) }),
