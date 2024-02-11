@@ -8,8 +8,19 @@
 import SwiftUI
 
 struct View029: View {
+    @State private var showSheet = false
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Button("sheet") {
+            showSheet.toggle()
+        }
+        .fullScreenCover(isPresented: $showSheet) {
+            ZStack {
+                Color.gray.opacity(0.5).ignoresSafeArea()
+                Button("Dismiss") {
+                    showSheet.toggle()
+                }
+            }
+        }
     }
 }
 
