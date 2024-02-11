@@ -12,13 +12,12 @@ import SwiftUI
 struct View025: View {
     @State private var isNext = false
     var body: some View {
-        NavigationStack {
-            Button("Button1") {
-                isNext.toggle()
-            }
-            .navigationDestination(isPresented: $isNext) {
-                NextView025(onTap: hoge)
-            }
+        Button("Button1") {
+            isNext.toggle()
+        }
+        .navigationTitle("View 25")
+        .navigationDestination(isPresented: $isNext) {
+            NextView025(onTap: hoge)
         }
     }
     
@@ -28,7 +27,9 @@ struct View025: View {
 }
 
 #Preview {
-    View025()
+    NavigationStack {
+        View025()
+    }
 }
 
 struct NextView025: View {

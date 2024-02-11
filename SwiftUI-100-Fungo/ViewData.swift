@@ -7,9 +7,16 @@
 
 import SwiftUI
 
-struct ViewData {
+struct ViewData: Hashable {
+    
     var name: String
     var view: () -> AnyView
+    
+    func hash(into hasher: inout Hasher) {}
+    
+    static func == (lhs: ViewData, rhs: ViewData) -> Bool {
+        lhs.name == rhs.name
+    }
 }
 
 let views = [

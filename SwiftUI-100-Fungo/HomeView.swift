@@ -9,13 +9,16 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List(views, id: \.name) { viewData in
-                NavigationLink(destination: viewData.view) {
+                NavigationLink(value: viewData) {
                     Text(viewData.name)
                 }
             }
             .navigationTitle("SwiftUI100本ノック")
+            .navigationDestination(for: ViewData.self) { viewData in
+                viewData.view()
+            }
         }
     }
 }

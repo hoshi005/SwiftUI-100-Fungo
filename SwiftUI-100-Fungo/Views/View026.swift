@@ -8,11 +8,31 @@
 import SwiftUI
 
 struct View026: View {
+    
+    let items = [
+        "ちさと",
+        "たきな",
+        "クルミ",
+        "ミズキ",
+    ]
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List {
+            ForEach(items, id: \.self) { item in
+                NavigationLink(value: item) {
+                    Text(item)
+                }
+            }
+        }
+        .navigationTitle("View 26")
+        .navigationDestination(for: String.self) { item in
+            Text(item)
+        }
     }
 }
 
 #Preview {
-    View026()
+    NavigationStack {
+        View026()
+    }
 }
