@@ -9,10 +9,14 @@ import SwiftUI
 
 struct View030: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("hoge")
+            .navigationTitle("View 030")
+            .toolbar(.hidden, for: .navigationBar)
     }
 }
 
 #Preview {
-    View030()
+    NavigationStack {
+        View030()
+    }
 }
